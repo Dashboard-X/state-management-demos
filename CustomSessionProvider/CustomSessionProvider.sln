@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\Test\CustomSessionProvider\", ".", "{A925596F-044D-4F46-A801-5B7CA39EE21E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/CustomSessionProvider"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Test\CustomSessionProvider\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CustomSessionProvider\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CustomSessionProvider"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Test\CustomSessionProvider\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CustomSessionProvider\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52476"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A925596F-044D-4F46-A801-5B7CA39EE21E}.Debug|.NET.ActiveCfg = Debug|.NET
+		{A925596F-044D-4F46-A801-5B7CA39EE21E}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
